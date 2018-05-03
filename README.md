@@ -1,2 +1,2 @@
 # gitrepository
-new repository for git
+new repository for git 02
