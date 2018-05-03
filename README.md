@@ -1,2 +1,2 @@
 # gitrepository
-new repository for git 03
+new repository for git v2
