@@ -20,7 +20,7 @@ public class Thread01  extends  Thread{
                 @Override
                 public void run() {
                     k = k + 3;
-                    System.out.println("哈哈哈" + (k));
+                    System.out.println("哈哈哈11" + (k));
                 }
             }.start();
         }
